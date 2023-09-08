@@ -4,6 +4,6 @@
   import "../app.css";
 </script>
 
-<Header />
+<!-- <Header /> -->
 <slot />
-<Footer />
+<!-- <Footer /> -->
